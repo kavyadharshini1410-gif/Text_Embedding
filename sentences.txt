@@ -1,0 +1,5 @@
+Artificial intelligence is changing the world.
+Machine learning is a part of artificial intelligence.
+Python is widely used for machine learning.
+Natural language processing helps computers understand human language.
+Deep learning uses neural networks.

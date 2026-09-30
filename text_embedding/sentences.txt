@@ -1,0 +1,5 @@
+I love learning artificial intelligence.
+Machine learning is a part of artificial intelligence.
+Python is useful for data science.
+Natural language processing helps computers understand text.
+Deep learning uses neural networks.
